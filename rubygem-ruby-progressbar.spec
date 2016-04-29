@@ -4,7 +4,7 @@
 #
 Name     : rubygem-ruby-progressbar
 Version  : 1.7.5
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/ruby-progressbar-1.7.5.gem
 Source0  : https://rubygems.org/downloads/ruby-progressbar-1.7.5.gem
 Summary  : No detailed summary available
